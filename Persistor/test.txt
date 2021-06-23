@@ -1,0 +1,14 @@
+Tipo: Padre
+Nombre: Eneru
+Apellido: God
+Edad: 105
+Sexo: M
+Teléfono: 80955555
+Hijo: Cal God
+Tipo: Padre
+Nombre: calico
+Apellido: electronico
+Edad: 55
+Sexo: M
+Teléfono: 5555555
+Hijo: caliquito electronico
